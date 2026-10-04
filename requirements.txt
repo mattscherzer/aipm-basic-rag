@@ -1,0 +1,5 @@
+streamlit>=1.40
+ollama>=0.4
+chromadb>=0.5
+pypdf>=5.0
+pytest>=8.0
